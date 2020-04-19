@@ -295,15 +295,13 @@ h3 {
 }
 
 .iframeAudio {
-    margin: 12px;
+    max-width:"300px";
+    margin: 30px;
+
 }
 
 .prevent {
     text-align: left;
-}
-
-.link-a{
-    color: whitesmoke;
 }
 
 .imgspace {
@@ -321,14 +319,9 @@ h3 {
 }
 
 /*form para contato*/
-.form_container {
-    width: 70%;
-    margin: 40px auto;
-
-  }
-
 .form-contact {
-    width: 100%;
+    max-width: 500px;
+    margin: 30px auto;
     font-family: "Arial", Times, serif;
   }
 
