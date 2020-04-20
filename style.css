@@ -294,10 +294,11 @@ h3 {
 
 }
 
-.iframeAudio {
-    max-width:"100px";
-    margin: 30px;
-
+.AudioNot {
+    max-width:"330px";
+    margin:30px;
+    border: #ccc;
+    box-shadow: black 0.1px 0.1px 7px;
 }
 
 .prevent {
