@@ -83,7 +83,7 @@ body {
 }
 
 .bg-gradiente-branco {
-    background-image: linear-gradient(45deg, #EEE, #FFF);
+    background-image: linear-gradient(45deg, rgb(66, 66, 66), #FFF);
 }
 
 .bg-blur{
