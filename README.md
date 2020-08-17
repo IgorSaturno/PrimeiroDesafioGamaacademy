@@ -1,2 +1,2 @@
 # PrimeiroDesafioGamaacademy
-ultilizando HTML e CSS
+Ultilizando HTML e CSS
